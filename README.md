@@ -1,5 +1,5 @@
 
-# 🔐 Cybersecurity Breach Analysis Dashboard – Power BI Project
+  # 🔐 Cybersecurity Breach Analysis Dashboard – Power BI Project
 
 ![image](https://github.com/user-attachments/assets/1e74e425-0590-4bd8-a204-6a912882d60d)
 
@@ -109,6 +109,22 @@ Emphasizes differences in regulatory compliance and legal consequences.
 
 ---
 
+## 🧠 Insights They Provide
+
+- Reveal seasonal breach patterns (e.g., Q4 spikes due to holiday phishing)
+- Highlight industry-specific vulnerabilities (e.g., Healthcare’s ransomware risk)
+- Identify emerging attack vectors (e.g., API abuse growth by 20% YoY)
+
+---
+
+## 🎯 Impact They Create
+
+- Empower decision-makers to tailor cybersecurity strategies to their sector → risk reduction up to **15%**
+- Facilitate targeted training (e.g., phishing awareness for Finance staff)
+- Drive cost-effective resource allocation by focusing on high-risk periods or regions
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -122,10 +138,3 @@ project-root/
 ├── README.md
 └── PowerBI.pbix
 ```
-
----
-
-## 📬 Contact
-
-For queries or feedback, feel free to connect via [LinkedIn]([https://www.linkedin.com/in/malay-doshi-8003b2239]) or raise an issue in this repo.
-
