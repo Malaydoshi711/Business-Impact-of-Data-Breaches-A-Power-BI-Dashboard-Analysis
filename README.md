@@ -1,7 +1,7 @@
 
 # 🔐 Cybersecurity Breach Analysis Dashboard – Power BI Project
 
-![Thumbnail](assets/thumbnail.png)
+![image](https://github.com/user-attachments/assets/1e74e425-0590-4bd8-a204-6a912882d60d)
 
 This Power BI project presents an in-depth analysis of cybersecurity breaches across industries, examining breach trends, financial losses, technical vectors, and global legal impact. The dashboards empower businesses and analysts with actionable insights for data-driven decision-making.
 
@@ -26,7 +26,7 @@ This Power BI project presents an in-depth analysis of cybersecurity breaches ac
   - Legal action
 
 - **📈 Interactive Charts**:  
-  Visual comparison by industry, geography, and breach type.
+  - Visual comparison by industry, geography, and breach type.
 
 ---
 
@@ -109,43 +109,6 @@ Emphasizes differences in regulatory compliance and legal consequences.
 
 ---
 
-## 🧠 Insights They Provide
-
-- Reveal seasonal breach patterns (e.g., Q4 spikes due to holiday phishing)
-- Highlight industry-specific vulnerabilities (e.g., Healthcare’s ransomware risk)
-- Identify emerging attack vectors (e.g., API abuse growth by 20% YoY)
-
----
-
-## 🎯 Impact They Create
-
-- Empower decision-makers to tailor cybersecurity strategies to their sector → risk reduction up to **15%**
-- Facilitate targeted training (e.g., phishing awareness for Finance staff)
-- Drive cost-effective resource allocation by focusing on high-risk periods or regions
-
----
-
-## 📸 Gallery (Placeholders)
-
-> Add Power BI screenshot exports below into the `assets/` folder.
-
-- ![Dashboard 1](assets/dashboard1.png)
-- ![Dashboard 2](assets/dashboard2.png)
-- ![Dashboard 3](assets/dashboard3.png)
-- ![Dashboard 4](assets/dashboard4.png)
-
----
-
-## 🛠️ Widgets & Features Used
-
-- Power BI Slicers
-- KPI Cards
-- DAX for Calculated Metrics
-- Interactive Drill-Throughs
-- Custom Tooltips & Filters
-
----
-
 ## 📂 Repository Structure
 
 ```
@@ -164,5 +127,5 @@ project-root/
 
 ## 📬 Contact
 
-For queries or feedback, feel free to connect via [LinkedIn](https://linkedin.com) or raise an issue in this repo.
+For queries or feedback, feel free to connect via [LinkedIn]([https://www.linkedin.com/in/malay-doshi-8003b2239]) or raise an issue in this repo.
 
