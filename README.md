@@ -107,15 +107,11 @@ Emphasizes differences in regulatory compliance and legal consequences.
 | Country        | Compare geographic breach impacts and regulations                        |
 | Attack Vector  | Study popular breach methods like USB or Email                           |
 
----
-
 ## 🧠 Insights They Provide
 
 - Reveal seasonal breach patterns (e.g., Q4 spikes due to holiday phishing)
 - Highlight industry-specific vulnerabilities (e.g., Healthcare’s ransomware risk)
 - Identify emerging attack vectors (e.g., API abuse growth by 20% YoY)
-
----
 
 ## 🎯 Impact They Create
 
@@ -128,13 +124,11 @@ Emphasizes differences in regulatory compliance and legal consequences.
 ## 📂 Repository Structure
 
 ```
-project-root/
-├── assets/
-│   ├── thumbnail.png
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   └── dashboard4.png
+Business-Impact-of-Data-Breaches-A-Power-BI-Dashboard-Analysis/
+├── dashboard 1.png
+├── dashboard 2.png
+├── dashboard 3.png
+├── dashboard 4.png
 ├── README.md
-└── PowerBI.pbix
+└── data breaches.pbix
 ```
